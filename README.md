@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer with experience in building scalable web applications. Proficient in React.js, Vue.js, Nuxt, TypeScript, Node.js, Express, and REST API. Optimized interfaces for speed and responsiveness. Developed modular components, improving code architecture. Skilled in both relational (MySQL) and non-relational (MongoDB) databases. Committed to excellence and best practices in every project.
+Frontend Developer with experience in building scalable web applications. Proficient in Css, Scss, React.js, Vue.js, Nuxt, Next, TypeScript, Node.js, Express, and REST API. Optimized interfaces for speed and responsiveness. Developed modular components, improving code architecture. Skilled in both relational (PostgreSQL) and non-relational (MongoDB) databases. Committed to excellence and best practices in every project.
 
 
 ## 🌐 Socials:
