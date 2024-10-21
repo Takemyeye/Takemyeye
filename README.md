@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer with experience in building scalable web applications. Proficient in Css, Scss, React.js, Vue.js, Nuxt, Next, TypeScript, Node.js, Express, and REST API. Optimized interfaces for speed and responsiveness. Developed modular components, improving code architecture. Skilled in both relational (PostgreSQL) and non-relational (MongoDB) databases. Committed to excellence and best practices in every project.
+Fullstack Developer with 1.5 years of experience in building scalable web applications, both on the frontend and backend. Proficient in CSS, SCSS, React.js, Vue.js, Nuxt, Next, TypeScript, Node.js, Express, and REST API. Developed and maintained backend services using Node.js and Express, with expertise in both relational (PostgreSQL, MySQL) and non-relational (MongoDB, Redis) databases. Implemented complex SQL queries for data retrieval and optimization. Optimized interfaces for speed, responsiveness, and SEO. Experienced in containerizing applications with Docker, deploying projects via Nginx, managing hosting, and implementing caching strategies for performance improvement. Strong understanding of RESTful API development and integration. Committed to excellence and best practices in every project.
 
 
 ## 🌐 Socials:
