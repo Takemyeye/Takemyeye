@@ -1,5 +1,5 @@
 # About Me:
-Fullstack Developer with 2 years of experience in building scalable web applications, both on the frontend and backend. Proficient in CSS, SCSS, React.js, Vue.js, Nuxt, Next, TypeScript, Node.js, Express, and REST API.
+Fullstack Developer with 3 years of experience in building scalable web applications, both on the frontend and backend. Proficient in CSS, SCSS, React.js, Vue.js, Nuxt, Next, TypeScript, Node.js, Express, and REST API.
 
 I have hands-on experience in Python application development and a strong background in Object-Oriented Programming (OOP). I have successfully designed and implemented CRM systems and completed diverse development tasks, ensuring robust and efficient solutions tailored to client needs.
 
